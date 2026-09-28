@@ -6,14 +6,6 @@
 
 ---
 
-## 🛠️ My Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
