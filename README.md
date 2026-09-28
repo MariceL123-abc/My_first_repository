@@ -6,31 +6,10 @@
 
 ---
 
-## 🌟 About Me
-
-I'm an Information Technology student who enjoys learning about technology, programming, databases, networking, and web development.
-
-- 🎓 Currently studying Information Technology
-- 💻 Learning Web Development & Programming
-- 🌐 Interested in Web Mining, Data, and Cybersecurity
-- 📚 Always learning something new
-- 🚀 Goal: Become a successful IT professional
-
----
-
 ## 🛠️ My Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170">
 </p>
 
 ---
@@ -43,18 +22,6 @@ I'm an Information Technology student who enjoys learning about technology, prog
 
 ---
 
-## 🚀 Projects
-
-### 🌐 Web Development
-Building simple and useful websites while improving my HTML, CSS, and JavaScript skills.
-
-### 📊 Data & Web Mining
-Learning how data can be collected, analyzed, and used to discover useful information.
-
-### 🔐 Cybersecurity
-Exploring basic cybersecurity concepts, data protection, and safe computing practices.
-
----
 
 ## 🎯 My Goals
 
