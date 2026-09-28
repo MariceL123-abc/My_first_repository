@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MaricelBonsalao
+               MaricelBonsalao
 
 💻 **IS Student** | 🌱 **Future Developer** | 🚀 **IS Enthusiast**
 
